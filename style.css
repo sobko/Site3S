@@ -1,0 +1,22 @@
+body {
+  background-color: yellow;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  text-align:center;
+  font-family: 'Gochi Hand', cursive;
+}
+
+a{
+  text-decoration: none;
+  color: green;
+}
+/* I copied the button css from W3schools */
+
+a:hover{
+  color: red;
+}
+p{
+  
+}
