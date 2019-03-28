@@ -1,0 +1,22 @@
+table, th, td {
+  border: 2px solid red;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+img {
+  width: 400px;
+}
+.description {
+  padding: 20px;
+}
+
+td {
+  background-color: pink;
+}
+
+.yellowbackground {
+  background-color: #FFCC99;
+}
